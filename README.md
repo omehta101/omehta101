@@ -1,0 +1,1 @@
+My name is Om and I am a student at the Stevens Institute of Technology, majoring in Quantitative Finance and minoring in computer science. I have a passion for python and am sharing some of my CS projects here on GitHub.
