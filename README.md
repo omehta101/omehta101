@@ -1,8 +1,8 @@
-**Om Mehta**
+## Om Mehta
 
-Sharing some of my projects here, be that trading comps, projects, or random notebooks I made for club meetings. Hope to use this as educational for anybody who wants to learn something! Also, some facts about me:
+Sharing some of my projects here, be that trading comps, projects, or random notebooks I made for club meetings. Hope to use this as educational for anybody who wants to learn something! Also, some other facts about me:
 
-- Avid gym goer (Deadlift 4 plates)
+- Avid gym goer 
 - Meditation is the key to my peace
 - I recently started boxing
 - I'm an early riser
