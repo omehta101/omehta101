@@ -1,6 +1,6 @@
 ## Om Mehta
 
-### Hi! I'm Om. I am working towards my Master's degree in finance/math at UChicago. I completed my Bachelor's in Quantitative Finance from Stevnens Institute of Technology.
+### Hi! I'm Om. I am working towards my Master's degree in finance/math at UChicago. I completed my Bachelor's in Quantitative Finance from Stevens Institute of Technology.
 
 Sharing some of my projects here, be that trading comps, projects, or random notebooks I made for club meetings. Hope to use this as educational for anybody who wants to learn something. Also, some other random facts about me:
 
