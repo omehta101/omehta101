@@ -8,7 +8,7 @@ Sharing some of my projects here, be that trading comps, projects, or random not
 - I am super interested in anatomy, neuroscience, and psychology; particularly the nervous system's interactions w/ the other bodily systems and how these impact our daily lives.
 - I love poker
 - I recently started boxing
-- I read a lot of books on different subjects: psychology, behavioral economics,heuristics and biases, biology, pathology, trading, philosophy, selef-help, and more.
+- I read a lot of books on different subjects: psychology, behavioral economics,heuristics and biases, biology, pathology, trading, philosophy, self-help, and more.
 
 
 
